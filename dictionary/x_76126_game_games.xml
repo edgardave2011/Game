@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Games" max_length="40" name="x_76126_game_games" sizeclass="6" type="collection">
+        <element label="Instructions" max_length="8000" name="instructions" type="translated_html"/>
+        <element label="Judge score" max_length="40" name="judge_score" type="integer"/>
+        <element label="Score" max_length="40" name="score" type="integer"/>
+        <element label="Short desc" max_length="40" name="short_desc" type="string"/>
+    </element>
+</database>
