@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-06 14:23:21</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1a30e721db96220060eb5d50cf961967</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_76126_game_table.x_76126_game.user</sys_name>

@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-06 15:10:53</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>261b2fe1db96220060eb5d50cf961968</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_76126_game_games</sys_name>

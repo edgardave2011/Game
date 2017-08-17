@@ -17,11 +17,11 @@
         <number_ref display_value="TEAMS">a630e721db96220060eb5d50cf96196e</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">10796870db12220060eb5d50cf961980</super_class>
+        <super_class display_value="Task" name="task">f6452072372331004ed29c9953990eb2</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-06 14:23:21</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7d30af2ddb56220060eb5d50cf9619c6</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Team</sys_name>

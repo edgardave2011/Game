@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Team" max_length="40" name="x_76126_game_table" sizeclass="6" type="collection">
+    <element extends="task" label="Team" max_length="40" name="x_76126_game_table" type="collection">
         <element label="Judge - Game 1 Score" max_length="40" name="judge_game_1_score" type="integer"/>
         <element label="Judge - Game 2 Score" max_length="40" name="judge_game_2_score" type="integer"/>
         <element label="Judge - Game 3 Score" max_length="40" name="judge_game_3_score" type="integer"/>

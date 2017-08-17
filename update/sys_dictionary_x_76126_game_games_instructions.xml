@@ -3,6 +3,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="instructions" table="x_76126_game_games">
         <active>true</active>
         <array>false</array>
+        <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
@@ -51,8 +52,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-06 15:10:52</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>a4ca2be1db96220060eb5d50cf961973</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0a455c7ddbfeb2402ab570d9bf9619b1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Instructions</sys_name>
         <sys_package display_value="Game" source="x_76126_game">3d30af2ddb56220060eb5d50cf9619c6</sys_package>
@@ -60,8 +61,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Game">3d30af2ddb56220060eb5d50cf9619c6</sys_scope>
         <sys_update_name>sys_dictionary_x_76126_game_games_instructions</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-10-06 15:10:52</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-05-18 10:57:48</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
